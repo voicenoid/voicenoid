@@ -1,7 +1,6 @@
 # Hi there 👋 
 
 ## I'm G-YAN 
-どうも～～～～～～～～じーやんです。
   
 Contact me :point_right: [![Twitter(@voicenoid)](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%40voicenoid)](https://x.com/voicenoid)
 
