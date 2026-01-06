@@ -2,7 +2,7 @@
 
 ## I'm G-YAN 
   
-Contact me :point_right: [![Twitter(@espnoid)](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%40voicenoid)](https://x.com/espnoid)
+Contact me :point_right: [![Twitter(@espnoid)](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%40espnoid)](https://x.com/espnoid)
 
 ## :cupid:LOVE:cupid:	
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=for-the-badge&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=for-the-badge&logoColor=white) 
