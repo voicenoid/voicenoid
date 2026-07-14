@@ -1,5 +1,3 @@
-# Hi there 👋 
-
 ## SUKI
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=for-the-badge&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=for-the-badge&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=Next.js&style=for-the-badge&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE.svg?logo=astro&style=for-the-badge&logoColor=white) 
