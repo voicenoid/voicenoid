@@ -3,7 +3,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=Next.js&style=for-the-badge&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE.svg?logo=astro&style=for-the-badge&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=for-the-badge&logoColor=white) 
 
-## Stats
+## STATS
 ![じーやん's GitHub stats](https://github-readme-stats-voicenoids-projects.vercel.app/api?username=voicenoid&theme=cobalt)  
 
 ![じーやん's GitHub stats](https://github-readme-stats-voicenoids-projects.vercel.app/api/top-langs/?username=voicenoid&theme=cobalt&layout=donut-vertical&exclude_repo=github-readme-stats,voicenoid,kfes-cashier)  
